@@ -1,3 +1,9 @@
+## [0.5.2](https://github.com/vuejs/pinia/compare/@pinia/nuxt@0.5.1...@pinia/nuxt@0.5.2) (2024-02-08)
+
+### Bug Fixes
+
+- **types:** use declare module vue ([8a6ce86](https://github.com/vuejs/pinia/commit/8a6ce86db83b6315c067c8a98c898b3c74efe62e))
+
 ## [0.5.1](https://github.com/vuejs/pinia/compare/@pinia/nuxt@0.5.0...@pinia/nuxt@0.5.1) (2023-10-16)
 
 ### Bug Fixes

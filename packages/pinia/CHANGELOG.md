@@ -1,3 +1,14 @@
+## [2.1.8](https://github.com/vuejs/pinia/compare/pinia@2.1.7...pinia@2.1.8) (2024-02-08)
+
+### Bug Fixes
+
+- support webpack minification ([57914b5](https://github.com/vuejs/pinia/commit/57914b522fb901701c397a5ef62dad3339ee0cf9)), closes [#1143](https://github.com/vuejs/pinia/issues/1143)
+- **types:** use declare module vue ([8a6ce86](https://github.com/vuejs/pinia/commit/8a6ce86db83b6315c067c8a98c898b3c74efe62e))
+
+### Features
+
+- disposePinia ([bb8bf60](https://github.com/vuejs/pinia/commit/bb8bf60581747c76e42796b82eb3aa04e2336fdf)), closes [vuejs/pinia#2453](https://github.com/vuejs/pinia/issues/2453)
+
 ## [2.1.7](https://github.com/vuejs/pinia/compare/pinia@2.1.6...pinia@2.1.7) (2023-10-13)
 
 ### Bug Fixes
